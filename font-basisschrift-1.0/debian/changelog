@@ -1,0 +1,11 @@
+font-basisschrift (1.0-1ubuntu1) precise; urgency=low
+
+  * initial  
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 18 Apr 2016 17:34:49 +0200
+
+font-basisschrift (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Mon, 18 Apr 2016 17:26:07 +0200
