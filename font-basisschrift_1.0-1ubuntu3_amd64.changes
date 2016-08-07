@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 06 Aug 2016 12:04:28 +0200
+Source: font-basisschrift
+Binary: font-basisschrift
+Architecture: source all
+Version: 1.0-1ubuntu3
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ font-basisschrift - Basisschrift
+Changes: 
+ font-basisschrift (1.0-1ubuntu3) precise; urgency=low
+ .
+   * added deutshcschweizer basisschrift
+Checksums-Sha1: 
+ c5ae78e1beeb8c71b05331b847af6e60aecf228f 627 font-basisschrift_1.0-1ubuntu3.dsc
+ 7ad016fa103dc2d7b3a4abd1f3873ac707023632 112754 font-basisschrift_1.0-1ubuntu3.tar.gz
+ 2cc2d7f9c10424e952b98e973f5e3916a6280e5c 102318 font-basisschrift_1.0-1ubuntu3_all.deb
+Checksums-Sha256: 
+ 79cb7ed6dc018d2de141a136f8d0548aab466cc3692bfcac5f4d77b7fc79270c 627 font-basisschrift_1.0-1ubuntu3.dsc
+ c344a32f64fb6ca5ac974442bd6ef8ca341c2c126093f9944e25417a3e853a95 112754 font-basisschrift_1.0-1ubuntu3.tar.gz
+ 56cd3ad99d2255aa5d910c63068df492a14de5f5a6cc41783a3bde7c735be4ad 102318 font-basisschrift_1.0-1ubuntu3_all.deb
+Files: 
+ 1b808b15f88adb30c429d405dc2be565 627 unknown extra font-basisschrift_1.0-1ubuntu3.dsc
+ 6f1c3c1ae97aa20f878c99f8f0011f2f 112754 unknown extra font-basisschrift_1.0-1ubuntu3.tar.gz
+ aa7b8d30040888924df787072e0ecf15 102318 unknown extra font-basisschrift_1.0-1ubuntu3_all.deb
