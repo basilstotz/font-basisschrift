@@ -1,3 +1,9 @@
+font-basisschrift (1.0-1ubuntu4) precise; urgency=low
+
+  * fixed filename
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 07 Aug 2016 12:09:32 +0200
+
 font-basisschrift (1.0-1ubuntu3) precise; urgency=low
 
   * added deutshcschweizer basisschrift

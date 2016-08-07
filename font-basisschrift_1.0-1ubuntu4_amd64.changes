@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 07 Aug 2016 12:09:32 +0200
+Source: font-basisschrift
+Binary: font-basisschrift
+Architecture: source all
+Version: 1.0-1ubuntu4
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ font-basisschrift - Basisschrift
+Changes: 
+ font-basisschrift (1.0-1ubuntu4) precise; urgency=low
+ .
+   * fixed filename
+Checksums-Sha1: 
+ 529a06a20711134d3e1e45cd673a9594ce015e22 627 font-basisschrift_1.0-1ubuntu4.dsc
+ efe7acfdb7edf7f1af5b22bb57e3209b8d3cb1f7 112994 font-basisschrift_1.0-1ubuntu4.tar.gz
+ 1ca24271d6380a5c4f8012f0521dd60ba8896034 102670 font-basisschrift_1.0-1ubuntu4_all.deb
+Checksums-Sha256: 
+ 5e1b47f0cce03ebbe5b5fb4a4b959305e8c1c3800a74742aeedace4b8ff26238 627 font-basisschrift_1.0-1ubuntu4.dsc
+ 5ed7a118ff57da050fc36be4e8ef468c91550b973a2219dc3d228f10aba3da9d 112994 font-basisschrift_1.0-1ubuntu4.tar.gz
+ 728c3a3c3c32edd5fb3cd757860e0094d1babdbf5a83d1e9847af776dfd181a9 102670 font-basisschrift_1.0-1ubuntu4_all.deb
+Files: 
+ 93f54cb4d70cef5b65f3b90b6bbe4af9 627 unknown extra font-basisschrift_1.0-1ubuntu4.dsc
+ 67330f36a9ad83971b521eb3d6451b7f 112994 unknown extra font-basisschrift_1.0-1ubuntu4.tar.gz
+ 852bcb3c6680f7d50a9ead16897ce061 102670 unknown extra font-basisschrift_1.0-1ubuntu4_all.deb
