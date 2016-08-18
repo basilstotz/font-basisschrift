@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 18 Aug 2016 13:43:35 +0200
+Source: font-basisschrift
+Binary: font-basisschrift
+Architecture: source all
+Version: 1.0-1ubuntu5
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ font-basisschrift - Basisschrift
+Changes: 
+ font-basisschrift (1.0-1ubuntu5) precise; urgency=low
+ .
+   * removed luzerner basisschrift
+Checksums-Sha1: 
+ 9edf5c37374814563d948d7c0aee52a3d0fa6b30 624 font-basisschrift_1.0-1ubuntu5.dsc
+ 48b26c68ae8cd06a38340f86eadd5f71250c0e40 63177 font-basisschrift_1.0-1ubuntu5.tar.gz
+ 5f3141eb4618cd7c6e56fbe4d4df9f46af324bc2 52162 font-basisschrift_1.0-1ubuntu5_all.deb
+Checksums-Sha256: 
+ 880e0b0379a19108b2ab2422b8b380fc95ab47b7b5e547b32309fa17a39d4084 624 font-basisschrift_1.0-1ubuntu5.dsc
+ df4d3448e55029b2db80fbfb711eb4c8cab053b0e82cc490119c32b3d3aca060 63177 font-basisschrift_1.0-1ubuntu5.tar.gz
+ 778e1b7d8251a23aa00bb2b56480e54896d0c035d707704f52098b2578778990 52162 font-basisschrift_1.0-1ubuntu5_all.deb
+Files: 
+ ad40249eb9dd0d8c0e81e1ac61e3036c 624 unknown extra font-basisschrift_1.0-1ubuntu5.dsc
+ 35a0e2f048d4e6d92472769164ddabfa 63177 unknown extra font-basisschrift_1.0-1ubuntu5.tar.gz
+ f9843307ac557f5dc001ce40d949c6f1 52162 unknown extra font-basisschrift_1.0-1ubuntu5_all.deb

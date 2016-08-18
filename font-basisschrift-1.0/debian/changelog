@@ -1,3 +1,9 @@
+font-basisschrift (1.0-1ubuntu5) precise; urgency=low
+
+  * removed luzerner basisschrift
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 18 Aug 2016 13:43:35 +0200
+
 font-basisschrift (1.0-1ubuntu4) precise; urgency=low
 
   * fixed filename
